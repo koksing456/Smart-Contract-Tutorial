@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from '../logo.png';
 import './App.css';
 
+//Client Application
 class App extends Component {
   render() {
     return (
